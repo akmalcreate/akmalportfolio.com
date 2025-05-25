@@ -128,17 +128,17 @@
       <h2>Proyek / Pengalaman Praktik</h2>
       <div class="project-item">
         <h3>Praktik Konfigurasi & Instalasi Komputer</h3>
-        <img src="/attached_assets/IMG-20250525-WA0040.jpg" alt="Praktik TKJ 1">
+        <img src="IMG-20250525-WA0040.jpg" alt="Praktik TKJ 1">
         <p>Kegiatan praktik di ruang lab meliputi instalasi sistem operasi, perakitan PC, dan konfigurasi dasar jaringan lokal.</p>
       </div>
       <div class="project-item">
         <h3>Konfigurasi Mikrotik</h3>
-        <img src="attached_assets/Imgkomputer.jpg" alt="Konfigurasi Mikrotik">
+        <img src="IMG-20250525-WA0039.jpg" alt="Konfigurasi Mikrotik">
         <p>Melakukan konfigurasi IP Address, DHCP Server, dan pengaturan akses jaringan menggunakan Mikrotik Router.</p>
       </div>
       <div class="project-item">
         <h3>Praktik Jaringan & Troubleshooting</h3>
-        <img src="attached_assets/foto3.png" alt="Praktik TKJ 2">
+        <img src="IMG-20250525-WA0038.jpg" alt="Praktik TKJ 2">
         <p>Praktik pemasangan kabel LAN, pengecekan jaringan, serta troubleshooting di lingkungan sekolah dengan bimbingan instruktur.</p>
       </div>
     </div>
